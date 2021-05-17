@@ -1,2 +1,13 @@
-# book24_search_crawler
-second project
+주제:도서와 검색과 특정 도서의 가격 표현
+
+프로젝트 내용: yes24 사이트에서 3개의 특정 키워드를 검색하고 특정 상품의 가격을 크롤링하여 그래프로 표현한다
+
+202155108 김나희의 역할:
+yes24 사이트에 특정 키워드를 입력하여 검색을 수행하는 크롤러를 코딩하고 저자와 제목을 딕셔너리로 표현한다.이후 저장하여 git에 업로드한다.
+
+
+202155164 이가현의 역할:
+김나희가 검색한 상품의 가격들을 크롤링하여 그래프로 나타낸다. 이후 저장하여 git에 업로드한다.
+
+
+크롤링할 사이트: http://www.yes24.com/searchcorner/Search?keywordAd=&keyword=&domain=ALL&qdomain=%C0%FC%C3%BC&Wcode=001_005&query=%C0%CC%B1%E2%C0%FB+%C0%AF%C0%FC%C0%DA
